@@ -1,6 +1,7 @@
 # unsad
 
-A new Flutter project.
+ It is a flutter based app for endless laughter. With Unsad app, we can effortlessly generate random
+ memes from reddit at the tap of a button.
 
 ## Getting Started
 
